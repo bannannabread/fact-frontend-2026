@@ -1,0 +1,262 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1786467023.3302057,
+    "ast_hash": "740c2b092d6bdd8ddaef8115c8c16e34",
+    "semantic_hash": "740c2b092d6bdd8ddaef8115c8c16e34"
+  },
+  ".impeccable/design.json": {
+    "mtime": 1786927106.9627924,
+    "ast_hash": "a4cead9b4fa3798e321a08d4cbc1165a",
+    "semantic_hash": ""
+  },
+  "js/main.js": {
+    "mtime": 1786948457.6426363,
+    "ast_hash": "9fb927f928f895627d7b5a09f2cd42d0",
+    "semantic_hash": ""
+  },
+  ".impeccable/critique/2026-08-10T03-03-35Z__index-html.md": {
+    "mtime": 1786331015.7884357,
+    "ast_hash": "cf5137b8628fc74fbbb791b6522f748f",
+    "semantic_hash": "cf5137b8628fc74fbbb791b6522f748f"
+  },
+  "CLAUDE.md": {
+    "mtime": 1786467023.3143442,
+    "ast_hash": "8a6643a420fdad6bfb583523bc6cef16",
+    "semantic_hash": "8a6643a420fdad6bfb583523bc6cef16"
+  },
+  "DESIGN.md": {
+    "mtime": 1786949923.3354118,
+    "ast_hash": "61704e96d894b223762d64cd32c93615",
+    "semantic_hash": ""
+  },
+  "PRODUCT.md": {
+    "mtime": 1786225314.5453908,
+    "ast_hash": "28b4c09d1ba37107f62850f22c7dc3f2",
+    "semantic_hash": "28b4c09d1ba37107f62850f22c7dc3f2"
+  },
+  "about.html": {
+    "mtime": 1786988437.4571302,
+    "ast_hash": "57c92aa3543042c2d62ec8e8aa8396a3",
+    "semantic_hash": ""
+  },
+  "agenda.html": {
+    "mtime": 1786945764.2411206,
+    "ast_hash": "99c9a1870a7251f42b2413d7c03bdc84",
+    "semantic_hash": ""
+  },
+  "faq.html": {
+    "mtime": 1786945764.242136,
+    "ast_hash": "33565a13dd2184fa826d66928d62c368",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1786988482.1924424,
+    "ast_hash": "b4b0dc28dcf0169dfa5a6048d6121f7b",
+    "semantic_hash": ""
+  },
+  "past-facts.html": {
+    "mtime": 1786945764.2451396,
+    "ast_hash": "9bb64cd60847c63bdfad65f30f525389",
+    "semantic_hash": ""
+  },
+  "team.html": {
+    "mtime": 1786945764.2431383,
+    "ast_hash": "d9163fbf3885072cf7adc5411bd28188",
+    "semantic_hash": ""
+  },
+  "workshops.html": {
+    "mtime": 1786945764.244145,
+    "ast_hash": "194f4a561853efceb76dc05fa94a3c14",
+    "semantic_hash": ""
+  },
+  "assets/FACT Background3 copy (1).jpg": {
+    "mtime": 1786223837.0,
+    "ast_hash": "7ba81b7d93eb0e649892125e60a5ec26",
+    "semantic_hash": "7ba81b7d93eb0e649892125e60a5ec26"
+  },
+  "assets/FACT Header Pos copy.png": {
+    "mtime": 1786226899.0777633,
+    "ast_hash": "8f735b99629b07ba40ebe94196727f9e",
+    "semantic_hash": "8f735b99629b07ba40ebe94196727f9e"
+  },
+  "assets/FACT26 Logomark.png": {
+    "mtime": 1786222499.5235572,
+    "ast_hash": "4ac16f783b802a2b565023a7c6474078",
+    "semantic_hash": "4ac16f783b802a2b565023a7c6474078"
+  },
+  "assets/FINAL FACT26 Typemark.png": {
+    "mtime": 1786222499.5119958,
+    "ast_hash": "6b60320e37083bb07424602fbe43b24f",
+    "semantic_hash": "6b60320e37083bb07424602fbe43b24f"
+  },
+  "assets/hero section.png": {
+    "mtime": 1786225253.8001785,
+    "ast_hash": "dee47983d9a1484fd966b38f03cd55b9",
+    "semantic_hash": "dee47983d9a1484fd966b38f03cd55b9"
+  },
+  "assets/hero-bg.jpg": {
+    "mtime": 1786838812.415,
+    "ast_hash": "fb03078bd2bd5c708c71cc55f61fee62",
+    "semantic_hash": ""
+  },
+  "assets/hero-title.png": {
+    "mtime": 1786228262.720703,
+    "ast_hash": "8f735b99629b07ba40ebe94196727f9e",
+    "semantic_hash": "8f735b99629b07ba40ebe94196727f9e"
+  },
+  "assets/nav-mark.png": {
+    "mtime": 1786838812.316,
+    "ast_hash": "632e1a0be74818fc8722b5e486a48717",
+    "semantic_hash": ""
+  },
+  "assets/screencapture-owltastic-2026-08-08-19_08_03.png": {
+    "mtime": 1786230502.9657538,
+    "ast_hash": "6107f53964b1d5be1711221863b0126e",
+    "semantic_hash": "6107f53964b1d5be1711221863b0126e"
+  },
+  ".impeccable/critique/2026-08-11T18-11-18Z__team-html.md": {
+    "mtime": 1786471878.53073,
+    "ast_hash": "734623b97c711424e44aa14e97e4eb33",
+    "semantic_hash": ""
+  },
+  "palengke.html": {
+    "mtime": 1786945764.2451396,
+    "ast_hash": "eba6a3291ab0638eb60d715423a1f847",
+    "semantic_hash": ""
+  },
+  "inspo/screencapture-humanx-co-2026-08-15-18_02_30.png": {
+    "mtime": 1786834980.9539866,
+    "ast_hash": "bcd0ec2aef860fae3977f6881484a050",
+    "semantic_hash": ""
+  },
+  ".impeccable/critique/2026-08-15T23-25-30Z__index-html.md": {
+    "mtime": 1786836330.0153892,
+    "ast_hash": "30ab81fd3d94e8e799f6defbff944aab",
+    "semantic_hash": ""
+  },
+  "about photos/IMG_8706.jpg": {
+    "mtime": 1786839792.6091738,
+    "ast_hash": "44c0feefc18f31e2cd48c235d0bfae87",
+    "semantic_hash": ""
+  },
+  "about photos/P1030825.JPG": {
+    "mtime": 1786830714.207389,
+    "ast_hash": "15a12e14729384c581e463204327cd02",
+    "semantic_hash": ""
+  },
+  "about photos/_1260722.jpg": {
+    "mtime": 1786839781.246799,
+    "ast_hash": "4e789621e9e4dacdc0efc88fce04d3b0",
+    "semantic_hash": ""
+  },
+  "about photos/_1260772.jpg": {
+    "mtime": 1786839781.6035497,
+    "ast_hash": "0724b97208c8037ac905ce25bf055db1",
+    "semantic_hash": ""
+  },
+  "about photos/_1270117.jpg": {
+    "mtime": 1786839782.8560896,
+    "ast_hash": "b31146f868ee5042042fb5160545596e",
+    "semantic_hash": ""
+  },
+  "about photos/_1270129.jpg": {
+    "mtime": 1786839783.8277395,
+    "ast_hash": "47ad5e913ca6c82bfd28b6be585b60df",
+    "semantic_hash": ""
+  },
+  "about photos/_1270448.jpg": {
+    "mtime": 1786839785.6563368,
+    "ast_hash": "cf6b93a56681584199cd6c950febfb6d",
+    "semantic_hash": ""
+  },
+  "assets/about-carousel-1.jpg": {
+    "mtime": 1786840026.628,
+    "ast_hash": "a1c8ff922cbca3a0b5d0c867a49291d0",
+    "semantic_hash": ""
+  },
+  "assets/about-carousel-2.jpg": {
+    "mtime": 1786840026.784,
+    "ast_hash": "235b3e8ad19f9bb1eb5f5d03cc4d8a98",
+    "semantic_hash": ""
+  },
+  "assets/about-carousel-3.jpg": {
+    "mtime": 1786840026.905,
+    "ast_hash": "cb90df99a04cc761b02fb054912ca153",
+    "semantic_hash": ""
+  },
+  "assets/about-carousel-4.jpg": {
+    "mtime": 1786840027.048,
+    "ast_hash": "5467ca28ef1ff358ac26b80ccd837baa",
+    "semantic_hash": ""
+  },
+  "assets/about-carousel-5.jpg": {
+    "mtime": 1786840027.199,
+    "ast_hash": "b8c3df6558bf70ca95b31a1975d0f8b9",
+    "semantic_hash": ""
+  },
+  "assets/about-carousel-6.jpg": {
+    "mtime": 1786840027.347,
+    "ast_hash": "f8171c71b56264255fbba9e3301fe08d",
+    "semantic_hash": ""
+  },
+  "assets/about-carousel-7.jpg": {
+    "mtime": 1786840027.475,
+    "ast_hash": "185c5bc274e2bb4058d2b026f887c38f",
+    "semantic_hash": ""
+  },
+  "assets/venue-photo.jpg": {
+    "mtime": 1786840026.479,
+    "ast_hash": "3a9d0da1a20a8d10c8514699bd143cd4",
+    "semantic_hash": ""
+  },
+  "landingpageimg.jpg": {
+    "mtime": 1786839615.8878293,
+    "ast_hash": "cc6006d98a8c0d248fec62b5b58d707d",
+    "semantic_hash": ""
+  },
+  ".impeccable/critique/2026-08-17T01-00-53Z__index-html.md": {
+    "mtime": 1786928453.5965648,
+    "ast_hash": "06e75628dd3a47261c27641070ce43ee",
+    "semantic_hash": ""
+  },
+  ".impeccable/live/server.json": {
+    "mtime": 1786950121.5397942,
+    "ast_hash": "af2f6b6cff38c053fad14db61702ab06",
+    "semantic_hash": ""
+  },
+  ".impeccable/critique/2026-08-17T02-18-39Z__about-html.md": {
+    "mtime": 1786933119.1142273,
+    "ast_hash": "764408cc758183d8614ea8781d7eabde",
+    "semantic_hash": ""
+  },
+  ".impeccable/critique/2026-08-17T05-45-01Z__about-html.md": {
+    "mtime": 1786945501.0638807,
+    "ast_hash": "49db66141eb9f7a31d6996db69f64aee",
+    "semantic_hash": ""
+  },
+  ".impeccable/critique/2026-08-17T06-12-32Z__index-html.md": {
+    "mtime": 1786947152.2341669,
+    "ast_hash": "ef98afb63e82900cbe0c7125a57e027d",
+    "semantic_hash": ""
+  },
+  ".impeccable/critique/2026-08-17T07-12-36Z__index-html.md": {
+    "mtime": 1786950756.992903,
+    "ast_hash": "e3f5f0a44dd2788ef66484063e247718",
+    "semantic_hash": ""
+  },
+  "about photos/firstphoto.JPG": {
+    "mtime": 1786938917.2249403,
+    "ast_hash": "d194152b7ba7cda7e3d39d252f801ff0",
+    "semantic_hash": ""
+  },
+  "assets/about-intro.jpg": {
+    "mtime": 1786939040.766239,
+    "ast_hash": "68052584fe27b2d0b56a5b6870917e06",
+    "semantic_hash": ""
+  },
+  "FACT 2026 Teaser Trailer.mov": {
+    "mtime": 1786926575.0273416,
+    "ast_hash": "341c4c44b7fbc273fd672da90a9d59eb",
+    "semantic_hash": ""
+  }
+}

@@ -1,0 +1,11 @@
+# Ignore raw photos and videos
+*.mov
+*.mp4
+*.CR3
+*.RW2
+*.JPG
+*.jpg
+*.png
+
+# Keep the assets folder safe (optional: only if you have compressed web images there)
+!assets/
